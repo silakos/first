@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Random HTML Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      text-align: center;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    p {
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Random HTML Page</h1>
+  <p>This is a demonstration of a random HTML page created just for fun.</p>
+  <img src="random-image.jpg" alt="Random Image">
+  <p>Enjoy exploring the wonderful world of HTML!</p>
+</body>
+</html>
